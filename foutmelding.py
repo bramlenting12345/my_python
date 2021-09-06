@@ -1,0 +1,2 @@
+print.divprint.dit is een foutmelding.+ print.dit is een foutmelding.+ print.dit is een foutmelding.+ print.dit is een foutmelding.+ print.dit is een foutmelding.+ print.dit is een foutmelding.+ print.dit is een foutmelding.+ 
+print (:nu a = b )
